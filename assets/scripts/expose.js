@@ -34,6 +34,18 @@ function init() {
     audio.volume = (volumeBar.value/100);
     
   });
+
+  let button = document.querySelector("button");
+  button.addEventListener('click', function () {
+    var audio = document.querySelector("audio");
+    var jsConfetti = new JSConfetti()
+    if(hornSelect.value === "party-horn"){
+    jsConfetti.addConfetti({
+      confettiNumber: 500,
+    });
+    }
+    audio.play();
+  })
   
 
 }
