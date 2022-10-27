@@ -11,7 +11,7 @@ function init() {
     var audio = document.querySelector("audio");
     audio.src = "assets/audio/" + `${hornSelect.value}` + ".mp3";
     audio.load();
-    audio.play();
+    // audio.play();
     
   });
 
