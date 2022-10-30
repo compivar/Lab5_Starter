@@ -6,4 +6,4 @@ Partner: Nikhil Rao
 
 * Link to [Expose GitHub Pages Site](https://compivar.github.io/Lab5_Starter/expose.html)
 * Link to [Explore GitHub Pages Site](https://compivar.github.io/Lab5_Starter/explore.html)
-* Link to Continous Integration [repo] (https://github.com/compivar/introduction-to-github)
+* Link to Continous Integration [repo](https://github.com/compivar/introduction-to-github)
